@@ -20,5 +20,12 @@ DATA 송신 후 기능 실행을 위한 string 파싱 소켓
 쓰레드  
 디자인 패턴(SINGLETON)사용  
 
-참고자료:
+프로젝트 진행 계획  
+![image](https://github.com/chungstar/Bit_Cafe/assets/58381211/e7ad16b2-8cb8-4b82-ac10-292a673346b3)
+
+대략적인 시스템 구조  
+![image](https://github.com/chungstar/Bit_Cafe/assets/58381211/23d98b8d-f0da-450d-8eff-896d91b24827)
+
+
+참고자료:  
 [ehpub] [https://ehpub.co.kr]
